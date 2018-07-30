@@ -13,6 +13,6 @@ libraryDependencies ++= Seq(
 )
 
 enablePlugins(DebianPlugin)
-maintainer := “Sohail B <sohail@gmail.com>"
+maintainer := "Sohail B <sohail@gmail.com>"
 packageSummary := "My custom package"
 packageDescription := "Package"
